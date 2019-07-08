@@ -30,7 +30,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  amswer = num.sqrt
+  amswer = num/num
   puts answer
   return answer
 end
