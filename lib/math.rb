@@ -1,4 +1,7 @@
 def addition(num1, num2)
+  answer = num1 + num2 
+  puts answer
+  return answer
 
 end
 
